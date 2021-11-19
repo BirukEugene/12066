@@ -6,4 +6,11 @@
     <branch>master</branch>
     <projectVersion>49cc746871f0f2f25b146c31b89d1cafed799329</projectVersion>
   </descriptor>
+  <descriptor>
+    <repositoryId>design</repositoryId>
+    <path>DESIGN/rules/Example 1 - Bank Rating</path>
+    <projectName>Example 1 - Bank Rating</projectName>
+    <branch>master</branch>
+    <projectVersion>07cf43bbb20cdeb7fe5e1644bde7aea4c273668d</projectVersion>
+  </descriptor>
 </descriptors>
